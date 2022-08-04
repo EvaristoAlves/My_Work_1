@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\MarketPlaceOnline.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\MarketPlaceOnline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\MarketPlaceOnline.csproj",
+        "projectName": "MarketPlaceOnline",
+        "projectPath": "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\MarketPlaceOnline.csproj",
+        "packagesPath": "C:\\Users\\evari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\evari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "target": "Package",
+              "version": "[9.0.2.45, )"
+            },
+            "Microsoft.CrmSdk.XrmTooling.CoreAssembly": {
+              "target": "Package",
+              "version": "[9.1.1.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

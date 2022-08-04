@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCLFuDElfIXh/fBWXB/gYcEaX+1JbB0E57pKfo1iZrJQ9dFIFeTcBNJg4dMffplAMwn9Kaq8/8j077+zlbZ5jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evari\\OneDrive\\Área de Trabalho\\Dynacoop\\MyWork\\MarketPlaceOnline\\MarketPlaceOnline\\MarketPlaceOnline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.45\\microsoft.crmsdk.coreassemblies.9.0.2.45.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.crmsdk.deployment\\9.0.2.25\\microsoft.crmsdk.deployment.9.0.2.25.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.crmsdk.workflow\\9.0.2.42\\microsoft.crmsdk.workflow.9.0.2.42.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.crmsdk.xrmtooling.coreassembly\\9.1.1.1\\microsoft.crmsdk.xrmtooling.coreassembly.9.1.1.1.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.8\\microsoft.identitymodel.clients.activedirectory.3.19.8.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\evari\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
