@@ -3,7 +3,7 @@
 
 
 
-Projeto para atualizar as tabelas de conta e contato do portal do Dynamics 365 - Hub de vendas
+Projeto para atualizar as tabelas de conta e contato do portal do Dynamics 365 - Hub de vendas. 
 Utilizando: C#, Azure, Power App, Visual Studio, Dynamics 365.
 ## Referência
 
